@@ -1,6 +1,5 @@
 # Ramon Torres
-# streaming-05-smart-smoker
-# Ramón Torres
+# streaming-05-smart-smoker app
 # February 23, 2023
 # Github repository:
 # The Problem / Challenge To Solve
