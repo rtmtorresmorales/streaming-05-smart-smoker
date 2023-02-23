@@ -18,7 +18,7 @@ smoker-temps.csv has 4 columns:
 # RabbitMQ Admin
 •	See http://localhost:15672/Links to an external site.
 # General Instructions:
-#Task 1. Create a Place to Work
+# Task 1. Create a Place to Work
 1.	In GitHub, create a new repo for your project - name it streaming-05-smart-smoker
 2.	Add a README.md during the creation process. (If not, you can always add it later.)
 3.	Clone your repo down to your machine. 
@@ -36,9 +36,9 @@ ________________________________________
 7.	Explain your project in the README. Include prerequisites and how to run your code. 
 8.	Document your project works - display screenshots of your console and maybe the RabbitMQ console. 
 9.	If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
-General Instructions are illustrated within the code.
-Data source:  Temperature readings from a BBQ Smoker for Food A and Food B. Data is organized by time stamp and headers.
-The result:  Code that will retrieve the data from a csv file, convert into messages and generates messages.  The output is shown as a string with time and temperature readings.
+# General Instructions are illustrated within the code.
+# Data source:  Temperature readings from a BBQ Smoker for Food A and Food B. Data is organized by time stamp and headers.
+# Deliverables: Code that will retrieve the data from a csv file, convert into messages and generates messages.  The output is shown as a string with time and temperature readings.
 # General Instructions are illustrated within the code.
 # Part 1 - Project 
 1.	Clickable link to your public GitHub repo with custom README and displayed screenshot: 
