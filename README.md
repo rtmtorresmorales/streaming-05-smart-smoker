@@ -1,11 +1,11 @@
 # Ramon Torres
 # streaming-05-smart-smoker
-Ramón Torres
-February 23, 2023
-Github repository:
-The Problem / Challenge To Solve
-•	Please read about the Smart Smoker system here: Smart Smoker
-•	Access the smoker data file here Download smoker data file here.
+# Ramón Torres
+# February 23, 2023
+# Github repository:
+#The Problem / Challenge To Solve
+#•	Please read about the Smart Smoker system here: Smart Smoker
+# •	Access the smoker data file here Download smoker data file here.
 We want to stream information from a smart smoker. Read one value every half minute. (sleep_secs = 30)
 smoker-temps.csv has 4 columns:
 •	[0] Time = Date-time stamp for the sensor reading
