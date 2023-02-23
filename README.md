@@ -39,11 +39,15 @@ ________________________________________
 9.	If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
 # General Instructions are illustrated within the code.
 
-# Data source:  Temperature readings from a BBQ Smoker for Food A and Food B. Data is organized by time stamp and headers.
+# Data source:  
 
-# Deliverables: Code that will retrieve the data from a csv file, convert into messages and generates messages.  The output is shown as a string with time and temperature readings.
+Temperature readings from a BBQ Smoker for Food A and Food B. Data is organized by time stamp and headers.
 
-# General Instructions are illustrated within the code.
+# Deliverables: 
+
+Code that will retrieve the data from a csv file, convert into messages and generates messages.  The output is shown as a string with time and temperature readings.
+
+# Project submittal:
 # Part 1 - Project 
 1.	Clickable link to your public GitHub repo with custom README and displayed screenshot: 
 2.	About how long did you spend this module:  about five hours
