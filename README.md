@@ -54,7 +54,7 @@ Code that will retrieve the data from a csv file, convert into messages and gene
 # Part 1 - Project 
 1.	Clickable link to your public GitHub repo with custom README and displayed screenshot: 
 2.	About how long did you spend this module:  about five hours
-3.	Could you develop custom data pipelines for analytics using RabbitMQ and the resources available to you (y/n, why): Yes, still having configuration issues with my laptop, some slow internet connection, cut off the connection with RabbitMQ.  I was running a duplicate Python scenarios creatin some issues in VS Code Editor.
+3.	Could you develop custom data pipelines for analytics using RabbitMQ and the resources available to you (y/n, why): Yes, still having configuration issues with my laptop, some slow internet connection, cut off the connection with RabbitMQ.  I was running a duplicate Python scenarios creatin some issues in VS Code Editor and pika functioning.
 4.	What streaming analytics topics / techniques / skills do you think will be most helpful for the work you want to do: I will be applicable to any of the logistics and distribution scenarios presented in my graduate level courses.
 5.	Describe an idea for a (relatively simple) custom analytics pipeline you might want to implement in Module 7:  I selected Option 2 for Module 7, as I must first solve the configuration issues on my laptop for the next academic period and time is of the essence on this one.  For Option 2, I decided to go with Amazon Kinesis and compare to Apache Kafka and RabbitMQ.  
 6.	What was most difficult about this module:  Certainly, some of the coding was tricky and the configuration issues mentioned before. 
