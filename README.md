@@ -8,10 +8,10 @@
 We want to stream information from a smart smoker. Read one value every half minute. (sleep_secs = 30)
 smoker-temps.csv has 4 columns:
 
-•	  [0] Time = Date-time stamp for the sensor reading
-•	  [1] Channel1 = Smoker Temp --> send to message queue "01-smoker"
-•	  [2] Channel2 = Food A Temp --> send to message queue "02-food-A"
-• 	[3] Channel3 = Food B Temp --> send to message queue "03-food-B"
+[0] Time = Date-time stamp for the sensor reading
+[1] Channel1 = Smoker Temp --> send to message queue "01-smoker"
+[2] Channel2 = Food A Temp --> send to message queue "02-food-A"
+[3] Channel3 = Food B Temp --> send to message queue "03-food-B"
 
 # Requirements
 •	RabbitMQ server running
@@ -38,8 +38,11 @@ ________________________________________
 8.	Document your project works - display screenshots of your console and maybe the RabbitMQ console. 
 9.	If you only have a producer, you won't have a consumer showing messages yet, so you'll need to be creative. We'll build the consumers next.
 # General Instructions are illustrated within the code.
+
 # Data source:  Temperature readings from a BBQ Smoker for Food A and Food B. Data is organized by time stamp and headers.
+
 # Deliverables: Code that will retrieve the data from a csv file, convert into messages and generates messages.  The output is shown as a string with time and temperature readings.
+
 # General Instructions are illustrated within the code.
 # Part 1 - Project 
 1.	Clickable link to your public GitHub repo with custom README and displayed screenshot: 
