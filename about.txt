@@ -11,8 +11,7 @@
  
  The Python version is:      3.11.0
  
- The Python interpreter is at: 
- C:\Users\ddwal\anaconda3\envs\py311\python.exe
+
 
  The active environment should be either conda OR pip (one should be None):
 
@@ -21,23 +20,6 @@
  
  The path to the active virtual environment is:
 
- C:\Users\ddwal\anaconda3\envs\py311
- 
- The Current Working Directory (CWD) where this command was launched is:
-
- C:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod5\streaming-05-smart-smoker
- 
- The absolute path to the data directory is:
-
- C:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod5\streaming-05-smart-smoker\
- 
- The absolute path to this source directory is:
-
- c:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod5\streaming-05-smart-smoker
- 
- The absolute path to this file is:
-
- c:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod5\streaming-05-smart-smoker\about.py
  
 ==============================================================
 ==============================================================
