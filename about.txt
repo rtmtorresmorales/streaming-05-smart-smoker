@@ -18,7 +18,6 @@
      Active conda env is: py311
      Active pip env is:   None
  
- The path to the active virtual environment is:
 
  
 ==============================================================
