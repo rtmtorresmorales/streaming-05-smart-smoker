@@ -1,7 +1,7 @@
 # Ramon Torres
 # streaming-05-smart-smoker app
 # February 23, 2023
-# Github repository:
+# Github repository: https://github.com/rtmtorresmorales/streaming-05-smart-smoker
 # The Problem / Challenge To Solve
 •	Please read about the Smart Smoker system here: Smart Smoker
 •	Access the smoker data file here Download smoker data file here.
@@ -52,7 +52,7 @@ Code that will retrieve the data from a csv file, convert into messages and gene
 
 # Project submittal:
 # Part 1 - Project 
-1.	Clickable link to your public GitHub repo with custom README and displayed screenshot: 
+1.	Clickable link to your public GitHub repo with custom README and displayed screenshot:  https://github.com/rtmtorresmorales/streaming-05-smart-smoker
 2.	About how long did you spend this module:  about five hours
 3.	Could you develop custom data pipelines for analytics using RabbitMQ and the resources available to you (y/n, why): Yes, still having configuration issues with my laptop, some slow internet connection, cut off the connection with RabbitMQ.  I was running a duplicate Python scenarios creatin some issues in VS Code Editor and pika functioning.
 4.	What streaming analytics topics / techniques / skills do you think will be most helpful for the work you want to do: I will be applicable to any of the logistics and distribution scenarios presented in my graduate level courses.
