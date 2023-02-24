@@ -1,6 +1,5 @@
 """
-This file provides standard information to
-help with debugging. 
+This file provides standard information for debugging.
 
 This file is named:   about.py
 This module is named: about
