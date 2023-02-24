@@ -65,3 +65,7 @@ At the end of this module students will be able to:
 1.	Implement a simple streaming data producer. (L06) Proficient
 2.	Describe how data producers could be extended to transform data and extract information. (L07)   Proficient
 # Screenshot:
+![image](https://user-images.githubusercontent.com/111456228/221131576-e2739cc6-1f94-4ea9-989a-e115d9735e98.png)
+
+![image](https://user-images.githubusercontent.com/111456228/221131613-eae49360-d84d-4e95-8adc-02a74b16b42d.png)
+
