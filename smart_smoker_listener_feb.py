@@ -1,7 +1,7 @@
 """
     This program listens for work messages contiously.
 
-    !!!!!The smart_smoker_emitter.py must run to start sending the messages first!!!!!
+    !!!!!The smart_smoker_emitter_feb.py must run to start sending the messages first!!!!!
 
 
 
@@ -196,7 +196,6 @@ def main(hn: str, queue1: str, queue2: str, queue3: str):
         channel.queue_delete(queue3)
         connection.close()
 
-# Standard Python idiom to indicate main program entry point
 # This allows us to import this module and use its functions
 # without executing the code below.
 # If this is the program being run, then execute the code below
